@@ -1,0 +1,6 @@
+{
+  "name": "News Portal",
+  "description": "Full-stack news portal with secure admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
